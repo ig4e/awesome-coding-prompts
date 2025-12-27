@@ -86,6 +86,7 @@ class PromptConsolidator {
       "feature-development.md",
       "frontend-react-shadcn.md",
       "frontend-design.md",
+      "nextjs-app-router.md",
     ];
 
     const promptFiles = this.getPromptFiles();

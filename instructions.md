@@ -16,6 +16,7 @@ You must strictly adhere to the guidelines defined in the following files. **Rea
 - `prompts/feature-development.md` (Workflow: Discovery -> Plan -> Build)
 - `prompts/frontend-react-shadcn.md` (Frontend Guidance)
 - `prompts/frontend-design.md` (Frontend Design Guidance)
+- `prompts/nextjs-app-router.md` (Next.js App Router Guidance)
 
 ## 🚨 Critical Instructions (The "Must-Haves")
 

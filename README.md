@@ -26,6 +26,7 @@ Following Clean Architecture principles, this collection is organized into focus
 | `typescript-wizard.md` | Type Safety | Advanced TypeScript patterns and generic usage |
 | `feature-development.md` | Workflow | 5-phase feature implementation protocol |
 | `frontend-react-shadcn.md` | UI/UX | Modern React/Next.js with shadcn/ui ecosystem |
+| `nextjs-app-router.md` | Next.js App Router | Strict Next.js App Router development guidelines |
 
 ## 🚀 Quick Start
 
