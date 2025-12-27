@@ -1,0 +1,17 @@
+{
+  "name": "awesome-coding-prompts",
+  "version": "1.0.0",
+  "description": "A collection of comprehensive coding prompts for professional development",
+  "main": "scripts/consolidate.js",
+  "scripts": {
+    "consolidate": "node scripts/consolidate.js",
+    "build": "npm run consolidate"
+  },
+  "keywords": ["coding", "prompts", "typescript", "architecture", "development"],
+  "author": "Ahmed Badr",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
